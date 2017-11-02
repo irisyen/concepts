@@ -1,11 +1,11 @@
-## Automatic Reminder- for students who constantly forget to bring things
+# **Automatic Reminder- for students who constantly forget to bring things**
 
-# The Problem:
-Deduction(Forget to bring assignment/group work/extracurricular activities stuff)
-Wasting time（ how much time）to go home and search things, inefficiency
-Stereotype from others- disorganized/forgetful/ oblivious
-Arouse irritation, bad mood
-Arguments, conflicts and nagging in the home
+## The Problem:
+1. Deduction(Forget to bring assignment/group work/extracurricular activities stuff)
+2. Wasting time（ how much time）to go home and search things, inefficiency
+3. Stereotype from others- disorganized/forgetful/ oblivious
+4. Arouse irritation, bad mood
+5. Arguments, conflicts and nagging in the home
 
 
 ### Markdown
