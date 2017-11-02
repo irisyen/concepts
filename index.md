@@ -1,8 +1,12 @@
-## Welcome to Iris Yen's profile
+## Automatic Reminder- for students who constantly forget to bring things
 
-You can use the [editor on GitHub](https://github.com/irisyen/concepts/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# The Problem:
+Deduction(Forget to bring assignment/group work/extracurricular activities stuff)
+Wasting time（ how much time）to go home and search things, inefficiency
+Stereotype from others- disorganized/forgetful/ oblivious
+Arouse irritation, bad mood
+Arguments, conflicts and nagging in the home
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
