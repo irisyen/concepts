@@ -11,7 +11,7 @@
 ## Target Population: 
 Students range from junior high school to college/university who use calendar app(google calendar) or schedule application(digital syllabus)   (No broad population  / narrow down )
 
-![competitive analysis](/Users/Zoe/Desktop/Reminder\ app.png)
+![competitive analysis](https://github.com/irisyen/concepts/blob/master/imgs/Reminder%20app.png?raw=true)
 
 
 # Header 1
